@@ -1,0 +1,8 @@
+# .gitignore
+node_modules/
+.next/
+.env
+.env.*
+pnpm-lock.yaml
+.DS_Store
+*.log
